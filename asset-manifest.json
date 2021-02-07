@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/prathmeshsadake.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/prathmeshsadake.github.io/static/js/main.18c7cd0d.chunk.js",
+    "main.js.map": "/prathmeshsadake.github.io/static/js/main.18c7cd0d.chunk.js.map",
+    "runtime-main.js": "/prathmeshsadake.github.io/static/js/runtime-main.251cccfe.js",
+    "runtime-main.js.map": "/prathmeshsadake.github.io/static/js/runtime-main.251cccfe.js.map",
+    "static/js/2.106a84bd.chunk.js": "/prathmeshsadake.github.io/static/js/2.106a84bd.chunk.js",
+    "static/js/2.106a84bd.chunk.js.map": "/prathmeshsadake.github.io/static/js/2.106a84bd.chunk.js.map",
+    "static/js/3.09b31a46.chunk.js": "/prathmeshsadake.github.io/static/js/3.09b31a46.chunk.js",
+    "static/js/3.09b31a46.chunk.js.map": "/prathmeshsadake.github.io/static/js/3.09b31a46.chunk.js.map",
+    "index.html": "/prathmeshsadake.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/prathmeshsadake.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.106a84bd.chunk.js.LICENSE.txt": "/prathmeshsadake.github.io/static/js/2.106a84bd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/prathmeshsadake.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.251cccfe.js",
+    "static/js/2.106a84bd.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.18c7cd0d.chunk.js"
+  ]
+}
