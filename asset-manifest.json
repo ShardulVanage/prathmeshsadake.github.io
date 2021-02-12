@@ -1,17 +1,23 @@
 {
   "files": {
-    "main.css": "/prathmeshsadake.github.io/static/css/main.91254d27.chunk.css",
-    "main.js": "/prathmeshsadake.github.io/static/js/main.b1078f8e.chunk.js",
-    "main.js.map": "/prathmeshsadake.github.io/static/js/main.b1078f8e.chunk.js.map",
+    "main.css": "/prathmeshsadake.github.io/static/css/main.8985b379.chunk.css",
+    "main.js": "/prathmeshsadake.github.io/static/js/main.83f3ffa3.chunk.js",
+    "main.js.map": "/prathmeshsadake.github.io/static/js/main.83f3ffa3.chunk.js.map",
     "runtime-main.js": "/prathmeshsadake.github.io/static/js/runtime-main.9c86571a.js",
     "runtime-main.js.map": "/prathmeshsadake.github.io/static/js/runtime-main.9c86571a.js.map",
-    "static/js/2.6f9d4e31.chunk.js": "/prathmeshsadake.github.io/static/js/2.6f9d4e31.chunk.js",
-    "static/js/2.6f9d4e31.chunk.js.map": "/prathmeshsadake.github.io/static/js/2.6f9d4e31.chunk.js.map",
+    "static/css/2.ec02d681.chunk.css": "/prathmeshsadake.github.io/static/css/2.ec02d681.chunk.css",
+    "static/js/2.dc8154c0.chunk.js": "/prathmeshsadake.github.io/static/js/2.dc8154c0.chunk.js",
+    "static/js/2.dc8154c0.chunk.js.map": "/prathmeshsadake.github.io/static/js/2.dc8154c0.chunk.js.map",
     "index.html": "/prathmeshsadake.github.io/index.html",
-    "static/css/main.91254d27.chunk.css.map": "/prathmeshsadake.github.io/static/css/main.91254d27.chunk.css.map",
-    "static/js/2.6f9d4e31.chunk.js.LICENSE.txt": "/prathmeshsadake.github.io/static/js/2.6f9d4e31.chunk.js.LICENSE.txt",
+    "static/css/2.ec02d681.chunk.css.map": "/prathmeshsadake.github.io/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.8985b379.chunk.css.map": "/prathmeshsadake.github.io/static/css/main.8985b379.chunk.css.map",
+    "static/js/2.dc8154c0.chunk.js.LICENSE.txt": "/prathmeshsadake.github.io/static/js/2.dc8154c0.chunk.js.LICENSE.txt",
     "static/media/bg-footer-squiggle.16bec340.svg": "/prathmeshsadake.github.io/static/media/bg-footer-squiggle.16bec340.svg",
     "static/media/bg-hero-squiggle.5178f019.svg": "/prathmeshsadake.github.io/static/media/bg-hero-squiggle.5178f019.svg",
+    "static/media/clean.6940c656.svg": "/prathmeshsadake.github.io/static/media/clean.6940c656.svg",
+    "static/media/code.e1d75e1f.svg": "/prathmeshsadake.github.io/static/media/code.e1d75e1f.svg",
+    "static/media/collab.85a08d3c.svg": "/prathmeshsadake.github.io/static/media/collab.85a08d3c.svg",
+    "static/media/design.79477b69.svg": "/prathmeshsadake.github.io/static/media/design.79477b69.svg",
     "static/media/icon-scroll.593cee62.svg": "/prathmeshsadake.github.io/static/media/icon-scroll.593cee62.svg",
     "static/media/illustration-hero-left.c0c2c579.svg": "/prathmeshsadake.github.io/static/media/illustration-hero-left.c0c2c579.svg",
     "static/media/illustration-hero-right.a020112c.svg": "/prathmeshsadake.github.io/static/media/illustration-hero-right.a020112c.svg",
@@ -19,8 +25,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9c86571a.js",
-    "static/js/2.6f9d4e31.chunk.js",
-    "static/css/main.91254d27.chunk.css",
-    "static/js/main.b1078f8e.chunk.js"
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.dc8154c0.chunk.js",
+    "static/css/main.8985b379.chunk.css",
+    "static/js/main.83f3ffa3.chunk.js"
   ]
 }
