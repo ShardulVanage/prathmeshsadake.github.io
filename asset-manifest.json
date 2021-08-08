@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/prathmeshsadake.github.io/static/css/main.9ded99dc.chunk.css",
-    "main.js": "/prathmeshsadake.github.io/static/js/main.61c004c2.chunk.js",
-    "main.js.map": "/prathmeshsadake.github.io/static/js/main.61c004c2.chunk.js.map",
-    "runtime-main.js": "/prathmeshsadake.github.io/static/js/runtime-main.9c86571a.js",
-    "runtime-main.js.map": "/prathmeshsadake.github.io/static/js/runtime-main.9c86571a.js.map",
-    "static/css/2.ec02d681.chunk.css": "/prathmeshsadake.github.io/static/css/2.ec02d681.chunk.css",
-    "static/js/2.ec00b2e6.chunk.js": "/prathmeshsadake.github.io/static/js/2.ec00b2e6.chunk.js",
-    "static/js/2.ec00b2e6.chunk.js.map": "/prathmeshsadake.github.io/static/js/2.ec00b2e6.chunk.js.map",
+    "main.css": "/prathmeshsadake.github.io/static/css/main.fac1a1e2.chunk.css",
+    "main.js": "/prathmeshsadake.github.io/static/js/main.f5489285.chunk.js",
+    "main.js.map": "/prathmeshsadake.github.io/static/js/main.f5489285.chunk.js.map",
+    "runtime-main.js": "/prathmeshsadake.github.io/static/js/runtime-main.2a1c7d3c.js",
+    "runtime-main.js.map": "/prathmeshsadake.github.io/static/js/runtime-main.2a1c7d3c.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/prathmeshsadake.github.io/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.c0d7a50c.chunk.js": "/prathmeshsadake.github.io/static/js/2.c0d7a50c.chunk.js",
+    "static/js/2.c0d7a50c.chunk.js.map": "/prathmeshsadake.github.io/static/js/2.c0d7a50c.chunk.js.map",
     "index.html": "/prathmeshsadake.github.io/index.html",
-    "static/css/2.ec02d681.chunk.css.map": "/prathmeshsadake.github.io/static/css/2.ec02d681.chunk.css.map",
-    "static/css/main.9ded99dc.chunk.css.map": "/prathmeshsadake.github.io/static/css/main.9ded99dc.chunk.css.map",
-    "static/js/2.ec00b2e6.chunk.js.LICENSE.txt": "/prathmeshsadake.github.io/static/js/2.ec00b2e6.chunk.js.LICENSE.txt",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/prathmeshsadake.github.io/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.fac1a1e2.chunk.css.map": "/prathmeshsadake.github.io/static/css/main.fac1a1e2.chunk.css.map",
+    "static/js/2.c0d7a50c.chunk.js.LICENSE.txt": "/prathmeshsadake.github.io/static/js/2.c0d7a50c.chunk.js.LICENSE.txt",
     "static/media/bg-footer-squiggle.16bec340.svg": "/prathmeshsadake.github.io/static/media/bg-footer-squiggle.16bec340.svg",
     "static/media/bg-hero-squiggle.5178f019.svg": "/prathmeshsadake.github.io/static/media/bg-hero-squiggle.5178f019.svg",
     "static/media/clean.7e402b3e.svg": "/prathmeshsadake.github.io/static/media/clean.7e402b3e.svg",
@@ -24,10 +24,10 @@
     "static/media/main-logo.f7b57f1b.svg": "/prathmeshsadake.github.io/static/media/main-logo.f7b57f1b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c86571a.js",
-    "static/css/2.ec02d681.chunk.css",
-    "static/js/2.ec00b2e6.chunk.js",
-    "static/css/main.9ded99dc.chunk.css",
-    "static/js/main.61c004c2.chunk.js"
+    "static/js/runtime-main.2a1c7d3c.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.c0d7a50c.chunk.js",
+    "static/css/main.fac1a1e2.chunk.css",
+    "static/js/main.f5489285.chunk.js"
   ]
 }
